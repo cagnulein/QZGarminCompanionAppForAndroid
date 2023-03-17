@@ -1,3 +1,5 @@
+package org.cagnulein.qzgarmincompanionandroid
+
 import android.app.Activity
 import android.bluetooth.*
 import android.os.Bundle
